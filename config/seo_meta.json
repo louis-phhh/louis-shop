@@ -1,0 +1,20 @@
+{
+  "title": "Louis Shop",
+  "titleTemplate": "%s - Louis Shop",
+  "description": "Louis Shop - https://haihau.me",
+  "openGraph": {
+    "title": "Louis Shop",
+    "description": "Louis Shop - https://haihau.me",
+    "type": "website",
+    "url": "https://haihau.me",
+    "site_name": "Louis Shop",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": "800",
+        "height": "600",
+        "alt": "Louis Shop"
+      }
+    ]
+  }
+}
